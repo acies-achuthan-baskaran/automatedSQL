@@ -1,5 +1,7 @@
 # automatedSQL
 
+This is an attempt to leverage existing LLMs to generate SQL queries with prompts. Reference can be found here.
+https://huggingface.co/mrm8488/t5-base-finetuned-wikiSQL?text=translate+English+to+SQL%3A+How+many+models+were+finetuned+using+BERT+as+base+model%3F
 
 # Setting up.
 
